@@ -93,13 +93,13 @@
 		{
 			"name": "oacode.oa-code",
 			"version": "4.79.1",
-			"sha256": "0ca9ea5302f05076045067c866474eb642923a1db08f73e791a2b7724bb4362d",
+			"sha256": "f3b55309f8cd346b5144644f49f85a7a23c4df1a3895473588daeed75158e399",
 			"repo": "https://github.com/Oa-Org/oacode",
 			"vsix": "build/builtin/extensions/oa-code-4.79.1.vsix",
 			"metadata": {
-				"id": "419dfb6e-4ee8-40b9-9e5f-d87840e4648c",
+				"id": "7ab40069-116f-4e59-a521-ea3b915ae0eb",
 				"publisherId": {
-					"publisherId": "2cd55b64-05bc-4d69-ab25-326e574aef9f",
+					"publisherId": "374a9034-3f5b-4353-91b7-f96e9ba510be",
 					"publisherName": "oacode",
 					"displayName": "%extension.displayName%",
 					"flags": "verified"
