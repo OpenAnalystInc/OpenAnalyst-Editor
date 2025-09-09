@@ -93,13 +93,13 @@
 		{
 			"name": "oacode.oa-code",
 			"version": "4.79.1",
-			"sha256": "f3b55309f8cd346b5144644f49f85a7a23c4df1a3895473588daeed75158e399",
-			"repo": "https://github.com/Oa-Org/oacode",
+			"sha256": "cef4c4f7033b693c186aef627cb8d7d18bbac097c4d4989ead076fcb262203bd",
+			"repo": "https://github.com/OpenAnalystInc/OpenAnalyst",
 			"vsix": "build/builtin/extensions/oa-code-4.79.1.vsix",
 			"metadata": {
-				"id": "7ab40069-116f-4e59-a521-ea3b915ae0eb",
+				"id": "e3d6c247-75d2-480f-8627-0fa9e82bdbb6",
 				"publisherId": {
-					"publisherId": "374a9034-3f5b-4353-91b7-f96e9ba510be",
+					"publisherId": "f450e524-b8de-49f9-9a1a-5a3d80418145",
 					"publisherName": "oacode",
 					"displayName": "%extension.displayName%",
 					"flags": "verified"
